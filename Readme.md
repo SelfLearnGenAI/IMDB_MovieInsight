@@ -1,0 +1,6 @@
+- Install the libraries by running <b>$pip install -r requirements.txt</b>
+- Get OPENAI API-KEY from https://platform.openai.com/api-keys
+- [01_IMDB_Scraper.ipynb](01_IMDB_Scraper.ipynb) - Scrapper code book
+- [02_Movie_Insights.ipynb](02_Movie_Insights.ipynb) - Movie insights code book
+- src directory - contains all code files including global constants and utils code
+- data - input and generated data
